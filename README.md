@@ -4,6 +4,6 @@ This code will be released soon.
 
 
 #### Online Demo
-![exp1](https://github.com/Jay-xyj/SBDE/tree/main/exp/exp1.png)
+![exp1](exp/exp1.png)
 
-![exp2](https://github.com/Jay-xyj/SBDE/tree/main/exp/exp2.png)
+![exp2](exp/exp2.png)
