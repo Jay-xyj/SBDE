@@ -1,6 +1,8 @@
 # SBDE: A Segmentation-driven Editing Framework for Bolt Defect Augmentation and Detection
 Official repository for SBDE: A Segmentation-driven Editing Framework for Bolt Defect Augmentation and Detection
 
+## We are developing an online demo on HuggingFace
+
 ## Online Demo will be released soon (Recommended).
 ![exp1](exp3.png)
 
