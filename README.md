@@ -1,9 +1,9 @@
 # SBDE: A Segmentation-driven Editing Framework for Bolt Defect Augmentation and Detection
 Official repository for SBDE: A Segmentation-driven Editing Framework for Bolt Defect Augmentation and Detection
 
-## We are developing an online demo on HuggingFace
+## We are developing an online demo on HuggingFace. 
 
-## Online Demo will be released soon (Recommended).
+Online Demo will be released soon (Recommended).
 ![exp1](exp3.png)
 
 This example shows the test results of our method on a bolt image selected from the public paper. Example of the bolt image from [UBDDM](https://ieeexplore.ieee.org/abstract/document/10036038) *Luo P, Wang B, Wang H, et al. An ultrasmall bolt defect detection method for transmission line inspection[J]. IEEE Transactions on Instrumentation and Measurement, 2023, 72: 1-12.*
