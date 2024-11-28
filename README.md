@@ -4,8 +4,11 @@ Official repository for SBDE: A Segmentation-driven Editing Framework for Bolt D
 ## Online Demo will be released soon (Recommended).
 ![exp1](exp3.png)
 
+This example shows the test results of our method on a bolt image selected from the public paper. Example of the bolt image from [UBDDM](https://ieeexplore.ieee.org/abstract/document/10036038) *Luo P, Wang B, Wang H, et al. An ultrasmall bolt defect detection method for transmission line inspection[J]. IEEE Transactions on Instrumentation and Measurement, 2023, 72: 1-12.*
+
 ## Requirements
-*Python 3.8 \\
+*Python 3.8 
+
 *PyTorch 2.4.1
 
 ## Todo
