@@ -1,6 +1,10 @@
 # SBDE: A Segmentation-driven Editing Framework for Bolt Defect Augmentation and Detection
 Official repository for SBDE: A Segmentation-driven Editing Framework for Bolt Defect Augmentation and Detection
 
+## Updates
+- Nov 29, 2024: ✨ You can refer to the Hugging Face model demo built by [@xiaoyangjie](https://github.com/Jay-xyj) for easier usage via this [link](https://huggingface.co/spaces/xiaoyangjie/SBDE_demo).
+- Nov 28, 2024: ✨ The code has been released!
+
 ## [[Hugging Face demo]](https://huggingface.co/spaces/xiaoyangjie/SBDE_demo) (Recommended).
 ![exp1](exp3.png)
 
