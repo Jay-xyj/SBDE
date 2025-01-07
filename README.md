@@ -8,7 +8,7 @@ Official repository for SBDE: A Segmentation-driven Editing Method for Bolt Defe
 ## [[Hugging Face demo]](https://huggingface.co/spaces/xiaoyangjie/SBDE_demo) (Recommended).
 ![exp1](exp3.png)
 
-This example shows the test results of our method on a bolt image selected from the public paper. Example of the bolt image from [UBDDM](https://ieeexplore.ieee.org/abstract/document/10036038) *Luo P, Wang B, Wang H, et al. An ultrasmall bolt defect detection method for transmission line inspection[J]. IEEE Transactions on Instrumentation and Measurement, 2023, 72: 1-12.*
+This example shows the test results of our method on a bolt image (Fig.2) selected from the public [paper](https://ieeexplore.ieee.org/abstract/document/10036038).
 
 ## Requirements
 *Python 3.8 
